@@ -1,7 +1,19 @@
+html {
+  background: #f6f7f9;
+}
+
+/* Center the graphic */
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
 .CancerGraphic {
-  border: 1px solid #333;
+  border: 1px solid rgb(225, 226, 228);
   position: relative;
-  margin: 30px auto;
+  background: white;
 }
 
 .Stepper {
