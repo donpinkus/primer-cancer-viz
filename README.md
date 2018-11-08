@@ -9,10 +9,10 @@ don.pinkus@gmail.com
 
 #### Overview of the component hierarchy:
 
-App
-  CancerGraphic
-    Stepper
-    Chart
-      Tooltip
-      AvgPointAndLinks
+- App
+  - CancerGraphic
+    - Stepper
+    - Chart
+      - Tooltip
+      - AvgPointAndLinks
     
