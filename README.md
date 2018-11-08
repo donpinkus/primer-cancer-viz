@@ -7,7 +7,7 @@ Bootstrapped with create-react-app
 don.pinkus@gmail.com
 847.542.1219
 
-Overview of the component hierarchy:
+#### Overview of the component hierarchy:
 
 App
   CancerGraphic
