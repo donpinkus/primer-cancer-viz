@@ -6,7 +6,7 @@ Bootstrapped with create-react-app
 
 Note that the "Chart" component has some code specific to this visualization (e.g. hard-coded X and Y accessor keys).
 
-If we want to make it a general ScatterChart component we could just factor these out into props, and also pass in the "points", "average point", and "average point links" as children.  If this is desired let me know! (Probably ~10 minutes of refactor).
+If we want to make it a general ScatterChart component we could just factor these out into props, and also pass in the "points", "average point", and "average point links" as children that receive props like the scales, accessors, etc.  If this is desired let me know! (Probably ~10 minutes of refactor).
 
 don.pinkus@gmail.com
 847.542.1219
